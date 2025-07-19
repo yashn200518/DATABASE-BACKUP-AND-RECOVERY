@@ -12,7 +12,7 @@ DURATION - 8 WEEKS
 
 MENTOR - NEELA SANTOSH
 
-#DESCRIPTION
+# DESCRIPTION
 
 Database Backup and Restore using MySQL Workbench (Export and Import Method)
 In any database-driven application, maintaining data integrity and ensuring recoverability is crucial. One of the most essential practices in database administration is the process of creating backups and being able to restore data in case of system failure, data corruption, or accidental deletion. During this project, I performed a full backup and restore of a MySQL database using the Data Export and Data Import features in MySQL Workbench, which is a graphical interface for MySQL database management.
