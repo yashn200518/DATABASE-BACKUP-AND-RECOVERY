@@ -30,5 +30,8 @@ After the import was complete, I verified the contents and structure of the data
 
 Overall, this method provides a simple yet effective way for beginners or non-technical users to handle backups without writing command-line queries. It is especially useful for small to medium-sized databases and can be used as part of a regular data maintenance strategy.
 
-#OUTPUT
+# OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ae838b2a-427d-41d9-9bda-a8dc0604269e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0540ee75-5de1-40dc-91b6-93752a7d8755" />
 
